@@ -20,7 +20,7 @@ I'm a **Backend Developer** who enjoys building scalable and maintainable system
 ![Fai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallMeRa8&show_icons=true&theme=tokyonight)
 
 ### 🏢 Organization Work
-I actively contribute to [**Nuncorp**](https://github.com/nuncorp) as a backend developer, working primarily with Go and Java (Spring Boot) in building robust internal systems and APIs.
+I actively contribute to [**MAZ NUSANTARA CAKTI**](https://github.com/faizalramadhan8) as a backend developer, working primarily with Go and Java (Spring Boot) in building robust internal systems and APIs.
 
 > ⚠️ Stats above only include personal public repositories.  
 > Private and organization contributions may not be fully visible here.
