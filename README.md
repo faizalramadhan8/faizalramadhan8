@@ -17,7 +17,7 @@ I'm a **Backend Developer** who enjoys building scalable and maintainable system
 ![REST API](https://img.shields.io/badge/-REST%20API-6E6E6E?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 📈 GitHub Stats
-![Fai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallMeRa8&show_icons=true&theme=tokyonight)
+![Fai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalrama8&show_icons=true&theme=tokyonight)
 
 ### 🏢 Organization Work
 I actively contribute to [**MAZ NUSANTARA CAKTI**](https://github.com/faizalramadhan8) as a backend developer, working primarily with Go and Java (Spring Boot) in building robust internal systems and APIs.
